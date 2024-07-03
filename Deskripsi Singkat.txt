@@ -1,0 +1,19 @@
+Pembuatan Kartu AR dengan Tema Karakter Unik atau Kartun untuk Pemula
+Pembuatan kartu Augmented Reality (AR) dengan tema karakter unik atau kartun adalah proyek kreatif yang dapat dilakukan oleh pemula. Berikut adalah langkah-langkah sederhana yang bisa diikuti:
+
+Pemilihan Objek 3D:
+
+Website Library: Kunjungi situs seperti Sketchfab untuk mencari model karakter atau kartun 3D. Banyak model gratis yang bisa diunduh untuk proyek ini.
+Unduh Model: Pilih dan unduh model karakter atau kartun yang Anda sukai. Pastikan model tersebut dalam format yang didukung oleh software AR Anda, seperti .glb atau .obj.
+Pembuatan Konten AR:
+
+Gunakan AR.js: AR.js adalah library open-source yang mudah digunakan untuk membuat aplikasi AR berbasis web. Anda hanya perlu pengetahuan dasar tentang HTML dan JavaScript.
+Integrasi Model 3D: Impor model karakter atau kartun ke dalam proyek AR.js Anda. Atur posisi, skala, dan rotasi model agar sesuai dengan desain kartu Anda.
+Desain Kartu Fisik:s
+
+Grafis Kartu: Desain kartu dengan gambar atau simbol yang dapat dikenali oleh aplikasi AR, seperti marker ‘hiro’ yang sudah ada dalam AR.js.
+Cetak Kartu: Cetak desain kartu Anda dengan kualitas tinggi agar marker dapat dikenali dengan mudah oleh kamera perangkat.
+Pengujian dan Peluncuran:
+
+Pengujian: Coba scan kartu dengan aplikasi AR.js yang telah Anda buat untuk memastikan model karakter atau kartun muncul dengan benar.
+Bagikan Kartu: Sebarkan kartu fisik kepada teman atau keluarga dan beri tahu mereka cara memindai kartu untuk melihat model karakter atau kartun dalam AR.
